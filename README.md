@@ -74,3 +74,7 @@ insights/
 **Noemi Silva**
 
 Analista de Dados | Power BI | SQL | Python
+
+<img width="987" height="637" alt="Painel de Inteligencia de Vendas" src="https://github.com/user-attachments/assets/a0272943-2d20-4258-81eb-6e3ce81a2da3" />
+
+
